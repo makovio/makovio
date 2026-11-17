@@ -1,13 +1,13 @@
 # Makovio Labs
 
-Wir entwickeln kostenlose Apps für macOS und Android. Aktuell konzentrieren wir uns auf **HomeBar**.
+Wir entwickeln kostenlose Apps. Unser erstes Projekt ist **HomeBar**, eine macOS-Menüleisten-App für ein vorhandenes Home Assistant.
 
 ## HomeBar
 
-HomeBar ist unser Projekt im Fokus. Neuigkeiten und ein Download folgen, sobald sie verfügbar sind.
+HomeBar zeigt Hausstatus und Räume direkt in der Menüleiste. Unterstützte Leuchten lassen sich steuern; Suche, Favoriten und die Ansicht „Ich gehe“ machen häufige Wege kürzer.
 
-## Weitere Ideen
+**Version 1 befindet sich in einer geschlossenen Beta.** Eine offene Beta und ein öffentlicher Download stehen noch nicht bereit. Wenn du HomeBar testen möchtest, schreib an [makoviolabs@gmail.com](mailto:makoviolabs@gmail.com?subject=HomeBar%20Beta-Test).
 
-**LightScout** ist für später geplant.
+[HomeBar und Demo-Ansichten ansehen](https://github.com/makovio/makovio-website)
 
-Mehr über Makovio Labs findest du im [Website-Repository](https://github.com/makovio/makovio-website).
+LightScout ist eine weitere Idee für später.
