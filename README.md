@@ -1,19 +1,13 @@
 # Makovio Labs
 
-**Kostenlose Apps für macOS und Android.** Wir arbeiten an kleinen, nützlichen Software-Ideen und zeigen hier transparent, was bereits verfügbar ist und was noch entsteht.
+Wir entwickeln kostenlose Apps für macOS und Android. Aktuell konzentrieren wir uns auf **HomeBar**.
 
-## In Vorbereitung
+## HomeBar
 
-| Projekt | Stand |
-| --- | --- |
-| HomeBar | Geplant |
-| LightScout | Geplant |
+HomeBar ist unser Projekt im Fokus. Neuigkeiten und ein Download folgen, sobald sie verfügbar sind.
 
-Für diese Projekte sind hier derzeit keine Veröffentlichungen oder Downloads angekündigt.
+## Weitere Ideen
 
-## Mehr erfahren
+**LightScout** ist für später geplant.
 
-- [Website-Projekt auf GitHub](https://github.com/makovio/makovio-website) – das Grundgerüst für unseren App-Showcase.
-- Künftige Apps sollen kostenlos nutzbar sein. Freiwillige Unterstützung über Buy Me a Coffee ist vorgesehen; ein bestätigter Spendenlink liegt noch nicht vor.
-
-Neue Releases und verifizierte Download-Links werden erst ergänzt, wenn sie tatsächlich verfügbar sind.
+Mehr über Makovio Labs findest du im [Website-Repository](https://github.com/makovio/makovio-website).
