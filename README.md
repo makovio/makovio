@@ -8,6 +8,6 @@ HomeBar zeigt Hausstatus und Räume direkt in der Menüleiste. Unterstützte Leu
 
 **Version 1 befindet sich in einer geschlossenen Beta.** Eine offene Beta und ein öffentlicher Download stehen noch nicht bereit. Wenn du HomeBar testen möchtest, schreib an [makoviolabs@gmail.com](mailto:makoviolabs@gmail.com?subject=HomeBar%20Beta-Test).
 
-[HomeBar und Demo-Ansichten ansehen](https://github.com/makovio/makovio-website)
+[HomeBar und Demo-Ansichten ansehen](https://makovio.github.io/makovio-website/)
 
 LightScout ist eine weitere Idee für später.
