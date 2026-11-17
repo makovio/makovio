@@ -1,16 +1,19 @@
-## Hi there 👋
+# Makovio Labs
 
-<!--
-**makovio/makovio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kostenlose Apps für macOS und Android.** Wir arbeiten an kleinen, nützlichen Software-Ideen und zeigen hier transparent, was bereits verfügbar ist und was noch entsteht.
 
-Here are some ideas to get you started:
+## In Vorbereitung
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Projekt | Stand |
+| --- | --- |
+| HomeBar | Geplant |
+| LightScout | Geplant |
+
+Für diese Projekte sind hier derzeit keine Veröffentlichungen oder Downloads angekündigt.
+
+## Mehr erfahren
+
+- [Website-Projekt auf GitHub](https://github.com/makovio/makovio-website) – das Grundgerüst für unseren App-Showcase.
+- Künftige Apps sollen kostenlos nutzbar sein. Freiwillige Unterstützung über Buy Me a Coffee ist vorgesehen; ein bestätigter Spendenlink liegt noch nicht vor.
+
+Neue Releases und verifizierte Download-Links werden erst ergänzt, wenn sie tatsächlich verfügbar sind.
